@@ -1,6 +1,6 @@
 {
   "name": "soap-client-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Soap with nodejs",
   "main": "index.js",
   "scripts": {
