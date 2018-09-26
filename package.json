@@ -1,0 +1,28 @@
+{
+  "name": "soap-client-node",
+  "version": "1.0.1",
+  "description": "Soap with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alivane/soap-client-node.git"
+  },
+  "keywords": [
+    "soap-client",
+    "https",
+    "http"
+  ],
+  "author": "Alisson Gutierrez <vanege643@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alivane/soap-client-node/issues"
+  },
+  "homepage": "https://github.com/alivane/soap-client-node#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "xml2js": "^0.4.19"
+  }
+}
